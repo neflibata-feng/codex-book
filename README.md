@@ -7,7 +7,7 @@
 - **图文并茂**：18 幅原创示意图，每幅都有图题和来源说明；书末附 35 条参考文献（GB/T 7714 格式）。
 - **篇幅**：PDF 共 65 页。内容依据 2026 年 11 月公开的 OpenAI 官方文档。
 
-📖 **直接阅读：[dist/codex_book.pdf](dist/codex_book.pdf)** · 仓库地址：https://github.com/neflibata-feng/codex-practical-guide
+📖 **直接阅读：[dist/codex_book.pdf](dist/codex_book.pdf)** · 仓库地址：https://github.com/neflibata-feng/codex-book
 
 ## 目录
 
